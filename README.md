@@ -29,6 +29,9 @@
 </plugin>
 ```
 
+**Remark**: If `PROBEDOCK_TEST_REPORT_UID` is already set, the plugin will use the value in place of generate a new one.
+
+
 ### Requirements
 
 * Java 6+
